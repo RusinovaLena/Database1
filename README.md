@@ -1,2 +1,2 @@
 # Database1
-![Image alt](https://github.com/{RusinovaLena}/{Database1}/raw/{repository}/Screenshot_1.png)
+![Image alt](https://github.com/{RusinovaLena}/{Database1}/raw/{resources}/Screenshot_1.png)
